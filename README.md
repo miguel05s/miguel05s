@@ -42,12 +42,15 @@ Currently completing my BSc in Computer Science at the University of Minho, head
 ## GitHub Stats
 
 
+## GitHub Stats
+
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=miguel05s&show_icons=true&bg_color=0d1117&title_color=a371f7&icon_color=a371f7&text_color=c9d1d9&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=miguel05s&show_icons=true&bg_color=0d1117&title_color=a371f7&icon_color=a371f7&text_color=c9d1d9&count_private=true&hide_border=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguel05s&langs_count=8&layout=compact&bg_color=0d1117&title_color=bc8cff&text_color=c9d1d9&include_all_commits=true&count_private=true&hide_border=true" />
 </p>
 
 <p align="center">
   <img height="250" src="https://github-readme-activity-graph.vercel.app/graph?username=miguel05s&bg_color=0d1117&color=a371f7&line=a371f7&point=ffffff&area_color=8957e5&area=true&border_radius=20&title_color=a371f7&hide_border=true"/>
 </p>
+
 
