@@ -1,8 +1,8 @@
 # Hi, I'm Miguel
 
-Computer Science student at LCC, University of Minho, finishing my bachelor's degree and pursuing a master's. I work across systems programming, functional programming, and data/machine learning, and I'm always looking to learn something new.
+Computer Science student at University of Minho, finishing my bachelor's degree and pursuing a master's. I work across systems programming, functional programming, and data/machine learning, and I'm always looking to learn something new.
 
-Currently completing my BSc in Computer Science (LCC) at the University of Minho, heading into a master's degree.
+Currently completing my BSc in Computer Science at the University of Minho, heading into a master's degree.
 
 ---
 
